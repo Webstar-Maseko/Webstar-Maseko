@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siyabonga Webstar Maseko 🇿🇦</h1>
-<h3 align="center">I am currently a Quality Assurance engineer🌱. I develop websites on my spare time. 🌐</h3>
+<h3 align="center">I am currently a Quality Assurance Engineer🌱. I develop websites on my spare time. 🌐</h3>
 
 <p align="left"> <a href="https://twitter.com/webstar_maseko" target="blank"><img src="https://img.shields.io/twitter/follow/webstar_maseko?logo=twitter&style=for-the-badge" alt="webstar_maseko" /></a> </p>
 
